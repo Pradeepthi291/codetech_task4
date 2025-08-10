@@ -6,7 +6,7 @@
 **Intern Name:** Vinjamuri Pradeepthi  
 **Intern ID:** CT06DG2077  
 **Domain:** UI/UX Design  
-**Duration:** 4 Weeks  
+**Duration:** 6 Weeks  
 **Mentor:** Neela Santhosh  
 
 ---
